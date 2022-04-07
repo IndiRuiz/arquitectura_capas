@@ -1,0 +1,6 @@
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Negocio\obj\Debug\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Negocio\obj\Debug\Capa Negocio.pdb

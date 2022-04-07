@@ -1,0 +1,6 @@
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\marme\OneDrive\Documentos\Indira\C#\Taller\ArquitecturaCapasa\Capa Datos\obj\Debug\Capa Datos.pdb
